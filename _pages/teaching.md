@@ -8,7 +8,8 @@ nav_order: 6
 ---
 
 Texas A&M University - Corpus Christi
-    - Fall 2023 - COSC 3374 Cyber Defense 1
-    - Fall 2022 - COSC 4367 Firewalls and Intrusion Detection Systems
-    - Fall 2021 - COSC 2360 Cyber Security  
-    
+<ul>
+    <li><b>Fall 2023</b> - COSC 3374 Cyber Defense 1 - <a target="_blank" href="{{ '/assets/pdf/COSC3474.pdf' | prepend: site.baseurl | prepend: site.url }}">&#91;Syllabus&#93;</a>.</li>
+    <li><b>Fall 2022</b> - COSC 4367 Firewalls and Intrusion Detection Systems - <a target="_blank" href="{{ '/assets/pdf/COSC4367.pdf' | prepend: site.baseurl | prepend: site.url }}">&#91;Syllabus&#93;</a>.</li>
+    <li><b>Fall 2021</b> - COSC 2360 Cyber Security - <a target="_blank" href="{{ '/assets/pdf/COSC2360.pdf' | prepend: site.baseurl | prepend: site.url }}">&#91;Syllabus&#93;</a>.</li>
+</ul>    
