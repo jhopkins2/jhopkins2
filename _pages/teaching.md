@@ -2,11 +2,13 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Courses that I have taught as the instructor of record. 
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+Texas A&M University - Corpus Christi
+    - Fall 2023 - COSC 3374 Cyber Defense 1
+    - Fall 2022 - COSC 4367 Firewalls and Intrusion Detection Systems
+    - Fall 2021 - COSC 2360 Cyber Security  
+    
