@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-05-15 14:10:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+I presented for the first time at [SACMAT](https://www.sacmat.org/2024/program.php) about my work, [SecureCheck](https://dl.acm.org/doi/10.1145/3649158.3657050). I was very nervous going through, but I preserved and I am excited to continue with my work. I look forward to the next I present at SACMAT.
