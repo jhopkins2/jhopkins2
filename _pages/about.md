@@ -12,7 +12,7 @@ profile:
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 Howdy, I am a Jacob Hopkins. I am a Ph.D. student in the Geospatial Computer Science program at [Texas A&M University - Corpus Christi](https://www.tamucc.edu/). I am working under the supervision of [Dr. Carlos Rubio-Medrano](https://carlosrubiomedrano.com/) in the CyberSecurity Innovation and Research Laboratory (CSRIL).
