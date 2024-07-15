@@ -16,6 +16,7 @@ Texas A&M University - Corpus Christi
             <li>Understand the risk analysis process and propose countermeasures to deal with those risks. </li>
             <li>Understand how to effectively apply and deploy technologies to protect an network environment.</li>
         </ol>
+        <br>
     </li>
     <li><b>Fall 2022</b> - COSC 4367 Firewalls and Intrusion Detection Systems - <a target="_blank" href="{{ '/assets/pdf/COSC4367.pdf' | prepend: site.baseurl | prepend: site.url }}">&#91;Syllabus&#93;</a>.
         <br><b>Learning Outcomes</b>
@@ -25,6 +26,7 @@ Texas A&M University - Corpus Christi
             <li>Mastery of packet analysis.</li>
             <li>Understand how to effectively apply and deploy technologies and administrative tools in an organizational environment.</li>
         </ol>
+        <br>
     </li>
     <li><b>Fall 2021</b> - COSC 2360 Cyber Security - <a target="_blank" href="{{ '/assets/pdf/COSC2360.pdf' | prepend: site.baseurl | prepend: site.url }}">&#91;Syllabus&#93;</a>.
         <br><b>Learning Outcomes</b>
@@ -35,6 +37,7 @@ Texas A&M University - Corpus Christi
             <li>Understand the techniques used for attack prevention, detection and response.</li>
             <li>Understand the tools available for forensic analysis.</li>
         </ol>
+        <br>
     </li>
 </ul>    
 

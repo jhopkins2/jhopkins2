@@ -6,9 +6,7 @@
     "email": "jhopkins2@islander.tamucc.edu",
     "url": "https://jhopkins2.github.io/jhopkins2/",
     "summary": "A graduate researcher at TAMUCC investigating privacy and security issues involing credential verification.",
-    "location": {
-      
-    },
+    "location": {},
     "profiles": [
       {
         "network": "Twitter",
@@ -17,93 +15,46 @@
       }
     ]
   },
-  "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Texas A&M University - Corpus Christi",
+      "location": "Corpus Christi, Texas",
+      "url": "https://www.tamucc.edu/",
+      "area": "Geospatial Computer Science",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "score": "4.0",
+      "startDate": "2022-08-01",
+      "endDate": "Ongoing"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "institution": "Texas A&M University - Corpus Christi",
+      "location": "Corpus Christi, Texas",
+      "url": "https://www.tamucc.edu/",
+      "area": "Computer Science",
+      "studyType": "MS",
+      "score": "4.0",
+      "startDate": "2020-01-01",
+      "endDate": "2022-08-01"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+      "institution": "Texas A&M University - Corpus Christi",
+      "location": "Corpus Christi, Texas",
+      "url": "https://www.tamucc.edu/",
+      "area": "Computer Science",
+      "studyType": "BS",
+      "score": "3.92",
+      "startDate": "2017-08-01",
+      "endDate": "2019-12-01"
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "institution": "Del Mar College",
+      "location": "Corpus Christi, Texas",
+      "url": "https://delmar.edu/",
+      "area": "Computer Programming",
+      "studyType": "AS",
+      "score": "3.82",
+      "startDate": "2015-07-01",
+      "endDate": "2017-05-01"
     }
   ],
   "publications": [
@@ -127,6 +78,24 @@
       "releaseDate": "1916-03-20",
       "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
       "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+    }
+  ],
+  "research experience": [
+    {
+      "name": "Texas A&M University - Corpus Christi",
+      "position": "Graduate Research Assistant",
+      "startDate": "2022-06-01",
+      "endDate": "Ongoing",
+      "summary": "Working as a researcher at the Cybersecurity Research and Innovation Laboratory headed by Dr. Carlos Rubio Medrano. My primary research focus is data minimization issues associated with credential verification."
+    }
+  ],
+  "awards": [
+    {
+      "title": "Nobel Prize in Physics",
+      "date": "1921-11-01",
+      "awarder": "Royal Swedish Academy of Sciences",
+      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
+      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     }
   ],
   "skills": [
@@ -186,7 +155,10 @@
     {
       "name": "Quantum Computing",
       "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+      "highlights": [
+        "Quantum Teleportation",
+        "Quantum Cryptography"
+      ],
       "startDate": "2018-01-01",
       "endDate": "2018-01-01",
       "url": "https://example.com"
