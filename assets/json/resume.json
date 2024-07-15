@@ -3,17 +3,15 @@
     "name": "Jacob Hopkins",
     "label": "Privacy & Security Researcher",
     "image": "",
-    "email": "jhopkins2@islander.tamucc.edu",
-    "url": "https://jhopkins2.github.io/jhopkins2/",
+    "email": "",
+    "url": "",
     "summary": "A graduate researcher at TAMUCC investigating privacy and security issues involing credential verification.",
-    "location": {},
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "location": {
+      "City": "Corpus Christi",
+      "Country": "USA",
+      "Region": "Texas"
+    },
+    "profiles": []
   },
   "education": [
     {
@@ -24,13 +22,13 @@
       "studyType": "PhD",
       "score": "4.0",
       "startDate": "2022-08-01",
-      "endDate": "Ongoing"
+      "endDate": ""
     },
     {
       "institution": "Texas A&M University - Corpus Christi",
       "location": "Corpus Christi, Texas",
       "url": "https://www.tamucc.edu/",
-      "area": "Computer Science",
+      "area": "Geospatial Computer Science",
       "studyType": "MS",
       "score": "4.0",
       "startDate": "2020-01-01",
@@ -40,107 +38,43 @@
       "institution": "Texas A&M University - Corpus Christi",
       "location": "Corpus Christi, Texas",
       "url": "https://www.tamucc.edu/",
-      "area": "Computer Science",
+      "area": "Geospatial Computer Science",
       "studyType": "BS",
       "score": "3.92",
       "startDate": "2017-08-01",
       "endDate": "2019-12-01"
+    }
+  ],
+  "awards": [
+    {
+      "title": "1st Place Winner in Computer Science Oral Presentation",
+      "date": "2023-03-01",
+      "awarder": "18th Annual Pathways Student Research Symposium",
+      "url": "https://www.tamucc.edu/news/2023/03/033023-islanders-victorious-at-tamus-pathways-student-research-symposium.php",
+      "summary": "Pathways Student Research Symposium is a A&M system wide event for all students with that system to present their research. I won the oral portion of my division of the symposium.'"
     },
     {
-      "institution": "Del Mar College",
-      "location": "Corpus Christi, Texas",
-      "url": "https://delmar.edu/",
-      "area": "Computer Programming",
-      "studyType": "AS",
-      "score": "3.82",
-      "startDate": "2015-07-01",
-      "endDate": "2017-05-01"
+      "title": "Scholar Achievement in Graduate Education (SAGE) Fellowship Award",
+      "date": "2022-08-01",
+      "awarder": "College of Graduate Studies",
+      "url": "https://www.tamucc.edu/grad-college/funding/sage.php",
+      "summary": "The SAGE Fellowship Award is awarded to students entering into terminal degree programs. It helps to fund up to three years of their studies."
     }
   ],
-  "publications": [
-    {
-      "name": "ecureCheck: User-Centric and Geolocation-Aware Access Mediation Contracts for Sharing Private Data",
-      "publisher": "Association for Computing Machinery",
-      "releaseDate": "2024-06-25",
-      "url": "https://dl.acm.org/doi/10.1145/3649158.3657050",
-      "summary": "Data oversharing is a critical issue in today's technologically driven society. Numerous entities, i.e., corporations, governments, criminal groups, are collecting individuals' data. One potential cause is that current systems, such as verification systems, do not prioritize the minimization of exchanged data. To address this issue, we propose SecureCheck, a novel privacy-enhancing technology (PET) framework that prioritizes data minimization. We aim to ensure that individuals control technology and its access to themselves, and not technology controlling individuals or their data. To that end, our proposed framework is comprised of two components: a novel access control model, called access mediation contracts, that enables users to negotiate with third parties over what data is used in a verification event, and a novel recommendation system that recommends the access mediation contracts in situationally-aware manner using geolocation data. As a part of ongoing work, we are developing a privacy calculus model detailing the decision process for data exchange. Also, we are conducting an exploratory study to better identify how to resolve conflicts between data owners and verifiers. Finally, we are actively working towards VaxCheck, a prototype implementation of SecureCheck focused on vaccine verification systems, so we can assess its effectiveness and suitability for future deployments in practice."
-    }
-  ],
-  "research experience": [
+  "work": [
     {
       "name": "Texas A&M University - Corpus Christi",
       "position": "Graduate Research Assistant",
       "startDate": "2022-06-01",
       "endDate": "Ongoing",
       "summary": "Working as a researcher at the Cybersecurity Research and Innovation Laboratory headed by Dr. Carlos Rubio Medrano. My primary research focus is data minimization issues associated with credential verification."
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": []
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": [
-        "Quantum Teleportation",
-        "Quantum Cryptography"
-      ],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Office of Information Security, TAMUCC",
+      "position": "Information Security Intern",
+      "startDate": "2018-06-01",
+      "endDate": "2020-01-01",
+      "summary": "I was a student worker at the Office of Information Security in TAMUCC. While there, I worked in a team as a security analyst. Some of duties were the monitoring of the University's network, helping with risk assessments for the various colleges, and addressing vulnerabilities that were identified."
     }
   ]
 }
